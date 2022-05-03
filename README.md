@@ -77,20 +77,23 @@ Each of the tables has the color name, the hex code, the 256-color code that clo
 
 #### Foreground
 
-| Color Name | Hex Code | 256 Code |                               Color Block                               |
-| :--------- | :------: | -------: | :---------------------------------------------------------------------: |
-| fg0        | #e2cca9  |      223 | ![Medium dark foreground square with the color #e2cca9](img/e2cca9.png) |
-| fg1        | #e2cca9  |      223 | ![Medium dark foreground square with the color #e2cca9](img/e2cca9.png) |
-| red        | #f2594b  |      167 | ![Medium dark foreground square with the color #f2594b](img/f2594b.png) |
-| orange     | #f28534  |      208 | ![Medium dark foreground square with the color #f28534](img/f28534.png) |
-| yellow     | #e9b143  |      214 | ![Medium dark foreground square with the color #e9b143](img/e9b143.png) |
-| green      | #b0b846  |      142 | ![Medium dark foreground square with the color #b0b846](img/b0b846.png) |
-| aqua       | #8bba7f  |      108 | ![Medium dark foreground square with the color #8bba7f](img/8bba7f.png) |
-| blue       | #80aa9e  |      109 | ![Medium dark foreground square with the color #80aa9e](img/80aa9e.png) |
-| purple     | #d3869b  |      175 | ![Medium dark foreground square with the color #d3869b](img/d3869b.png) |
-| bg_red     | #db4740  |      167 | ![Medium dark foreground square with the color #db4740](img/db4740.png) |
-| bg_green   | #b0b846  |      142 | ![Medium dark foreground square with the color #b0b846](img/b0b846.png) |
-| bg_yellow  | #e9b143  |      214 | ![Medium dark foreground square with the color #e9b143](img/e9b143.png) |
+| Color Name | Hex Code | 256 Code |                                Color Block                                |
+| :--------- | :------: | -------: | :-----------------------------------------------------------------------: |
+| fg0        | #e2cca9  |      223 |  ![Medium dark foreground square with the color #e2cca9](img/e2cca9.png)  |
+| fg1        | #e2cca9  |      223 |  ![Medium dark foreground square with the color #e2cca9](img/e2cca9.png)  |
+| red        | #f2594b  |      167 |  ![Medium dark foreground square with the color #f2594b](img/f2594b.png)  |
+| orange     | #f28534  |      208 |  ![Medium dark foreground square with the color #f28534](img/f28534.png)  |
+| yellow     | #e9b143  |      214 |  ![Medium dark foreground square with the color #e9b143](img/e9b143.png)  |
+| green      | #b0b846  |      142 |  ![Medium dark foreground square with the color #b0b846](img/b0b846.png)  |
+| aqua       | #8bba7f  |      108 |  ![Medium dark foreground square with the color #8bba7f](img/8bba7f.png)  |
+| blue       | #80aa9e  |      109 |  ![Medium dark foreground square with the color #80aa9e](img/80aa9e.png)  |
+| purple     | #d3869b  |      175 |  ![Medium dark foreground square with the color #d3869b](img/d3869b.png)  |
+| bg_red     | #db4740  |      167 |  ![Medium dark foreground square with the color #db4740](img/db4740.png)  |
+| bg_green   | #b0b846  |      142 |  ![Medium dark foreground square with the color #b0b846](img/b0b846.png)  |
+| bg_yellow  | #e9b143  |      214 |  ![Medium dark foreground square with the color #e9b143](img/e9b143.png)  |
+| grey0      | #7c6f64  |      243 | ![Material dark foreground square with the color #7c6f64](img/7c6f64.png) |
+| grey1      | #928374  |      245 | ![Material dark foreground square with the color #928374](img/928374.png) |
+| grey2      | #a89984  |      246 | ![Material dark foreground square with the color #a89984](img/a89984.png) |
 
 ### Hard
 
